@@ -1,4 +1,5 @@
-![logo](https://github.com/Harshalkal26/Harshalkal26/blob/main/github-header-image.png)
+![logo](https://drive.google.com/uc?export=view&id=1pXwz8DQnR0vtaY0DPZQa1v_YzrcLqEa1)
+
 <h1 align="center">Hi✋, I'm Harshal Kalgaonkar</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
